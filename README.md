@@ -9,13 +9,13 @@
 
 🚀 About Me
 
-💼 Completed a Java Full Stack Internship at Infosys Springboard.
-💻 Passionate about building scalable full-stack applications using Java, Spring Boot, React, and PostgreSQL.
-🌱 Currently exploring System Design, Microservices, Docker, and WebSocket-based real-time applications.
-🛠️ Experienced in REST APIs, Spring Security, JWT Authentication, Hibernate, and cloud deployment.
-🎯 Preparing for DSA, System Design, and Software Engineering interviews.
-📚 Continuously learning clean architecture, design patterns, and production-ready backend development.
-📫 Reach me at: **vivek39101@gmail.com**
+* 💼 Completed a Java Full Stack Internship at Infosys Springboard.
+* 💻 Passionate about building scalable full-stack applications using Java, Spring Boot, React, and PostgreSQL.
+* 🌱 Currently exploring System Design, Microservices, Docker, and WebSocket-based real-time applications.
+* 🛠️ Experienced in REST APIs, Spring Security, JWT Authentication, Hibernate, and cloud deployment.
+* 🎯 Preparing for DSA, System Design, and Software Engineering interviews.
+* 📚 Continuously learning clean architecture, design patterns, and production-ready backend development.
+* 📫 Reach me at: **vivek39101@gmail.com**
 
 ---
 
