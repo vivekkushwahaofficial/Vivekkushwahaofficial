@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 💼 Completed a Java Full Stack Internship at Infosys Springboard, building a project in the Java tech stack
+- 💼 Completed a Java Full Stack Internship at **Infosys Springboard**, building a project in the Java tech stack
 - 💻 Passionate about building scalable full-stack applications using **Java, Spring Boot, and React**
-- 🌱 Currently mastering Spring Boot, System Design & Backend Architecture
+- 🌱 Building scalable backend systems with Spring Boot, React, PostgreSQL, Docker, and WebSockets.
 - 🛠️ Experienced in REST APIs, Docker containerization, and cloud deployment (Render)
 - 🎯 Preparing for DSA, System Design, and Technical Interviews
 - 📚 Always learning — clean architecture, design patterns, and real-world project development
