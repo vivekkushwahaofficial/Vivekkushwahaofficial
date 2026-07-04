@@ -34,8 +34,16 @@
 
 ## 💼 Experience
 
-**Intern | Infosys Springboard** *Currently working* - Developing a real-world project utilizing the Java technology stack and backend architecture.
-- Gaining hands-on experience with industry-standard development practices.
+## 💼 Experience
+
+### Java Full Stack Intern | Infosys Springboard *(Completed)*
+
+* Developed real-world full-stack applications using **Java, Spring Boot, React, and PostgreSQL**.
+* Built secure REST APIs with **Spring Security** and **JWT Authentication**.
+* Worked with **Hibernate**, **Spring Data JPA**, and **Docker** for application development and deployment.
+* Gained hands-on experience with **backend architecture**, **database integration**, **Git/GitHub**, and industry-standard development practices.
+* Strengthened skills in writing clean, maintainable, and production-ready code.
+
 ## 💻 Tech Stack
 
 ### 🧠 Programming
