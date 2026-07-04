@@ -34,8 +34,6 @@
 
 ## 💼 Experience
 
-## 💼 Experience
-
 ### Java Full Stack Intern | Infosys Springboard *(Completed)*
 
 * Developed real-world full-stack applications using **Java, Spring Boot, React, and PostgreSQL**.
