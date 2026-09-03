@@ -15,7 +15,7 @@
 * 🛠️ Experienced in REST APIs, Spring Security, JWT Authentication, Hibernate, and cloud deployment.
 * 🎯 Preparing for DSA, System Design, and Software Engineering interviews.
 * 📚 Continuously learning clean architecture, design patterns, and production-ready backend development.
-* 📫 Reach me at: **vivek39101@gmail.com**
+* 📫 Reach me at: **vivekkushwaha.tech@zohomail.in**
 
 ---
 
