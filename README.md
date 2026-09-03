@@ -276,7 +276,7 @@ I'm interested in opportunities where I can contribute to real software projects
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode" />
   </a>
 
-  <a href="https://x.com/vivekkushdev">
+  <a href="https://x.com/iamvivek_tech">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
   </a>
 
