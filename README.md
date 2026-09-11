@@ -54,14 +54,14 @@ A browser extension and backend system designed to help developers organize codi
 `Java` `Spring Boot` `TypeScript` `React` `PostgreSQL` `GitHub API` `Chrome Extension`
 
 <p>
-  <a href="https://github.com/vivekkushwahaofficial/CodeVault/releases/latest">
-    <img
-      src="https://img.shields.io/badge/↓%20Download%20Extension%20↗-A855F7?style=for-the-badge&labelColor=A855F7&color=A855F7"
-      alt="Download CodeVault Extension"
-    />
-  </a>
+  <a href="https://chromewebstore.google.com/detail/codevault/loigjljekeahnjccojnnkmagibghofbn">
+  <img
+    src="https://img.shields.io/badge/Install%20CodeVault-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Install CodeVault"
+  />
+</a>
 
-  <a href="https://github.com/vivekkushwahaofficial/CodeVault">
+  <a href="https://github.com/vivekkushwaofficial/CodeVault">
     <img
       src="https://img.shields.io/badge/◉%20View%20on%20GitHub%20↗-18181B?style=for-the-badge&labelColor=18181B&color=18181B"
       alt="View CodeVault on GitHub"
@@ -72,6 +72,13 @@ A browser extension and backend system designed to help developers organize codi
     <img
       src="https://img.shields.io/badge/Live%20Demo%20↗-18181B?style=for-the-badge&labelColor=18181B&color=18181B"
       alt="CodeVault Live Demo"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/company/codevault-tool/">
+    <img
+      src="https://img.shields.io/badge/CodeVault%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="CodeVault LinkedIn"
     />
   </a>
 </p>
