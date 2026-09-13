@@ -286,7 +286,7 @@ I'm interested in opportunities where I can contribute to real software projects
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
   </a>
 
-  <a href="https://www.reddit.com/user/vivekofficial_/">
+  <a href="https://www.reddit.com/user/iamvivek_tech/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit" />
   </a>
 
