@@ -270,7 +270,7 @@ I'm interested in opportunities where I can contribute to real software projects
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
 
-  <a href="https://www.linkedin.com/in/vivek-kr-mehta/">
+  <a href="https://www.linkedin.com/in/Vivekkushwahaofficial/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 
