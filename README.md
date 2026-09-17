@@ -122,35 +122,42 @@ A full-stack collaboration platform focused on real-time communication, authenti
 
 ---
 
-### ⚖️ Legal Aid Matching Platform
+### ⚖️ Legal Match Pro — Infosys Springboard Internship Project
 
-A full-stack legal-aid platform developed during the Infosys Springboard internship, focused on secure user access, role-based workflows, and backend API integration.
+A full-stack legal-aid platform developed as my **Infosys Springboard Java Tech Stack Internship project (05 February 2026 – 03 April 2026)**.
 
 **Key Features**
 
+- ⚙️ Project setup and Spring Boot backend
 - 🔐 JWT-based authentication
-- 👥 Role-based access control
-- 🌐 RESTful API architecture
-- 🗄️ PostgreSQL database integration
-- ⚙️ Spring Boot backend services
-- 🔄 Frontend–backend API integration
+- 👥 Role-based access for Citizen, Lawyer, NGO, and Admin
+- ⚖️ Legal case submission and management
+- 🔎 Lawyer and NGO search
+- 🤝 Matching citizens with suitable legal experts
+- 💬 Chat and appointment features
+- 📊 Admin dashboard and analytics
 
 **Tech Stack**
 
 `Java` `Spring Boot` `Spring Security` `JWT` `Hibernate` `PostgreSQL` `React`
 
+**Internship Experience**
+
+- 🤝 Learned teamwork and collaboration through an 8-week team project
+- 💻 Gained practical experience in full-stack development and software development workflow
+
 <p>
   <a href="https://github.com/vivekkushwahaofficial/LegalMatch-Pro">
     <img
       src="https://img.shields.io/badge/View%20on%20GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Legal Aid Matching Platform on GitHub"
+      alt="View Legal Match Pro on GitHub"
     />
   </a>
 
   <a href="https://legal-match-pro.vercel.app/">
     <img
-      src="https://img.shields.io/badge/Live%20Demo-18181B?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="View Legal Aid Matching Platform Live Demo"
+      src="https://img.shields.io/badge/Live%20Demo%20-18181B?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="View Legal Match Pro Live Demo"
     />
   </a>
 </p>
