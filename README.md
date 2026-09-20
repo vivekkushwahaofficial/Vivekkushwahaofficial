@@ -37,16 +37,17 @@ I'm a **Computer Science student and aspiring Software Engineer** focused on bac
 
 ### 🔐 CodeVault — Developer Coding Solution Management Platform
 
-A browser extension and backend system designed to help developers organize coding-platform solutions and synchronize them with GitHub.
+A developer tool that automatically detects accepted coding solutions from supported coding platforms, extracts solution metadata, and synchronizes them with GitHub.
 
 **Key Features**
 
-- 🔎 Coding-platform solution detection
-- 🌐 Multi-platform integration
-- 🧩 Metadata and source-code extraction
-- 🔄 GitHub synchronization
+- 🔎 Automatic detection of accepted coding solutions
+- 🌐 Support for LeetCode, GeeksforGeeks, and HackerRank
+- 🧩 Solution source-code and metadata extraction
+- 📂 Automatic solution organization by platform, language, and difficulty
+- 🔄 Automatic GitHub synchronization
 - 🔐 GitHub OAuth authentication
-- 📦 Browser extension architecture
+- 📊 Coding statistics, activity heatmap, and coding streak tracking
 - ⚙️ Spring Boot backend APIs
 
 **Tech Stack**
@@ -252,6 +253,8 @@ I am focused on strengthening both **computer science fundamentals** and practic
 ---
 
 ## 🌱 Open Source & Development
+
+Currently building and maintaining **CodeVault**, an open-source developer tool for automatically detecting, organizing, and synchronizing coding solutions with GitHub.
 
 Interested in:
 
