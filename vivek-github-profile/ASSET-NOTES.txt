@@ -1,0 +1,12 @@
+Vivek Kumar GitHub Profile Package
+
+Files:
+- README.md
+- assets/image.png                  supplied portrait
+- assets/hero.svg                   self-contained hero with inline portrait
+- assets/tech-stack.svg             local tech-stack illustration
+- assets/id-dashboard.svg           local developer ID/dashboard illustration
+- assets/connect.svg                local connection illustration
+- assets/right-pointing.svg         replacement for missing right-pointing.png
+
+No external assets are required by the four custom SVG illustrations.
